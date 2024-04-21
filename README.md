@@ -1,1 +1,2 @@
-Exercicios de desenvolvidos em sala da disciplina de POO2 (Programação Orientada a Objetos)
+Exercicios de desenvolvidos em na disciplina de POO2 (Programação Orientada a Objetos), relacionadas a padrões de projetos.
+
